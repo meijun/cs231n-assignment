@@ -1,0 +1,6 @@
+build/*
+im2col_cython.c
+im2col_cython.so
+/datasets/coco_captioning/
+/datasets/tiny-imagenet-100-A/
+/datasets/pretrained_model.h5
